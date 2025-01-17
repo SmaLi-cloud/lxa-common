@@ -18,3 +18,4 @@ export const getDegree = d => {
       return '';
   }
 };
+var a = 1;
