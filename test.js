@@ -18,13 +18,3 @@ export const getDegree = d => {
       return '';
   }
 };
-var a = 1;
-var a = 1;
-var a = 1;
-var a = 1;
-var n = 1;
-var n = 1;
-var n = 1;
-var n = 1;
-var n = 1;
-var a = 1;
